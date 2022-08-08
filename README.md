@@ -1,2 +1,2 @@
-# basic-data-visualization
-Data visualization on the Netflix dataset.
+# basic-data-analysis
+Data visualization and analysis on the Netflix dataset.
